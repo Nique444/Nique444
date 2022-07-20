@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 My name is Tajnique (T.K.)
-
-- 🌱 I’m currently learning JavaScript
+- ✅ Javascript, HTML/CSS, React, Express
+- 🌱 I’m currently learning Express with React
 - 💻 I’m looking forward to joining the coding world
-- 🌙 I’m interested in space art and music 🎤
+- 🌙 I’m interested in space, art, and music 🎤
 - 📫 How to reach me: taji.fuller@gmail.com
-- 🧚🏽‍♀️ Pronouns: she/her/hers
+- 💁🏽‍♀️ Pronouns: she/her
